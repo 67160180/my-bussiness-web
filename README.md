@@ -12,13 +12,13 @@ McDonald's
 
 
 หน้าแรก:
-![alt text](images/Screenshot 2025-12-10 224637.png)
+![alt text](/images/Screenshot 2025-12-10 224637.png)
 
 เกี่ยวกับฉัน:
-![alt text](images/Screenshot 2025-12-10 224637.png)
+![alt text](/images/Screenshot 2025-12-10 224637.png)
 
 บริการ:
-![alt text](images/Screenshot 2025-12-10 225424.png)
+![alt text](/images/Screenshot 2025-12-10 225424.png)
 
 ช่องทางการติดต่อ:
-![alt text](images/Screenshot 2025-12-10 224637.png)
+![alt text](/images/Screenshot 2025-12-10 224637.png)
