@@ -12,7 +12,7 @@ McDonald's
 
 
 หน้าแรก:
-![คลิกเพื่อดูหน้าแรก[(/images/index-screenshot.png)](./index.html)
+![คลิกเพื่อดูหน้าแรก[(/images/index-Screenshot.png)]
 
 เกี่ยวกับฉัน:
 ![alt text](/images/Screenshot 2025-12-10 224637.png)
