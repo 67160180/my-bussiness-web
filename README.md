@@ -10,6 +10,14 @@ McDonald's
 - `services.html` — แสดงรายการบริการ พร้อมตารางเปรียบเทียบแพ็กเกจ
 - `contact.html` — ฟอร์มติดต่อ และแผนที่ Google Maps
 
+my-business-web/ 
+├── index.html 
+├── about.html 
+├── services.html 
+├── contact.html 
+├── README.md 
+└── images/ 
+└──...
 
 หน้าแรก:
 ![คลิกเพื่อดูหน้าแรก[(images/Screenshot 2025-12-10 224637.png)]
