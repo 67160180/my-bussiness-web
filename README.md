@@ -25,7 +25,7 @@ McDonald's
   ```
 
 หน้าแรก:
-![คลิกเพื่อดูหน้าแรก[(images/Screenshot 2025-12-10 224637.png)]
+![หน้าแรก](images/Screenshot_2025-12-10_224637.png)
 
 เกี่ยวกับฉัน:
 ![alt text](/images/Screenshot 2025-12-10 224637.png)
