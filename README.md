@@ -25,13 +25,17 @@ McDonald's
   ```
 
 หน้าแรก:
+
 ![หน้าแรก](images/index.png)
 
 เกี่ยวกับฉัน:
+
 ![alt text](images/about.png)
 
 บริการ:
+
 ![alt text](images/service.png)
 
 ช่องทางการติดต่อ:
+
 ![alt text](images/contact.png)
